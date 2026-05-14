@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Yash 👋
 
-<!--
-**databyyash/databyyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student  
+📊 Aspiring Data Analyst  
+💻 Learning SQL, Excel, Power BI & Python  
+🚀 Building real-world data analytics projects  
 
-Here are some ideas to get you started:
+## Skills
+- SQL
+- Excel
+- Power BI
+- Python (Learning)
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- SQL Practice
+- Dashboard Projects
+- Portfolio Building
+
+## Goals
+- Become job-ready Data Analyst
+- Build strong project portfolio
+- Crack off-campus opportunities
